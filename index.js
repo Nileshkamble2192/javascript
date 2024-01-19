@@ -12,6 +12,6 @@ var str2='This is string2';
 //var
 var marks = { test  : 28,
 Nilesh : 43 ,
-littleheart : 2843
+littleheart : 2588
 }
 console.log(marks);
